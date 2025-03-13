@@ -4,6 +4,7 @@ import pandas as pd
 # Diretório base onde os CSVs estão armazenados
 base_dir = "GAViST5G/GAViST5G/Global/Online Gaming"
 
+
 # Lista para armazenar os DataFrames carregados
 dataframes = []
 
